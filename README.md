@@ -6,7 +6,7 @@ Wir benutzen für dieses Projekt folgendes Modul: [Amazon] (http://www.amazon.de
 Es ist **wichtig**, dass ihr von Eurer SIM Karte den Pin deaktiviert, da man sonst keine Verbindung aufbauen kann.
 
 #####Das braucht ihr:
-- Arduino/Genuino Uno, oder ein vergleibares Modell
+- Arduino/Genuino Uno, oder ein vergleichbares Modell
 - SIM900 Module
 - GSM Library von Marco Martines
 
